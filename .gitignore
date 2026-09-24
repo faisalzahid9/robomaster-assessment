@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+rm_venv/
+venv/
+.venv/
+
+# ROS 2 generated directories
+build/
+install/
+log/
+.ros/
+
+# Editor files
+.vscode/
+.idea/
+*~
+
+# Large ROS bag data
+*.mcap

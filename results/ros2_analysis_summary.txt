@@ -1,0 +1,11 @@
+RoboMaster ROS 2 Bag Analysis
+==============================
+Bag: /home/faisal/robomaster_assessment/bags/ros2_ap_run_complete_4
+Duration: 129.484 s
+Message counts: {'/odom': 1260, '/cmd_vel': 20, '/joint_states': 1288}
+Mean odometry interval: 102.847 ms
+Mean odometry rate: 9.723 Hz
+Final position tracking error: 0.0580 m
+Maximum position tracking error: 0.0590 m
+Final absolute yaw error: 13.440 deg
+Maximum absolute yaw error: 13.510 deg
